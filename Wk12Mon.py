@@ -1,4 +1,4 @@
-#Short hand condiional
+#Short hand conditional
 
 a = 1
 b = 3
@@ -7,7 +7,7 @@ c = print("a") if a > b else print("b")
 
 #Match
 
-#unctions
+#functions
 def my_function(country = "Norway"):
     print("I am from " + country)
     
